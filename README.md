@@ -1,4 +1,5 @@
 # vue-sell
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+一个使用vuejs搭建的售卖平台demo
+>>>>>>> 216d7c9be2e0e341892c47a1fee712c9855e52fd
